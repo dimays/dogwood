@@ -1,5 +1,7 @@
 # Dogwood
 
+![alt text](https://github.com/dimays/dogwood/blob/master/dogwood.gif "Dogwood logo")
+
 **_Dogwood is currently in development._**
 
 Dogwood is a Game Engine for creating text-based games in Python. Dogwood games are played in the console, and can be played on Linux, OSX, Cygwin or other unix-like operating systems. The games can be easily packaged as an executable, so players don't need to have Python installed, or any experience with the console, in order to play.
