@@ -1,6 +1,6 @@
 # Dogwood
 
-![alt text](https://github.com/dimays/dogwood/blob/master/dogwood.gif "Dogwood logo")
+![alt text](https://github.com/dimays/dogwood/blob/master/dogwood-splash-transparent.gif "Dogwood logo")
 
 **_Dogwood is currently in development._**
 
